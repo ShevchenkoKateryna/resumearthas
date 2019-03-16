@@ -1,0 +1,194 @@
+#body{
+		width: 70%;
+    	height: 610px;
+    	margin: 10px auto;
+    	border: 5px solid #7E7E7E;
+}
+#CV-block{
+		height: 10%;
+		background-color: #3D4F5B;
+		font-size: 32px;
+		font-family: Florence, cursive;
+		text-align: center;
+}
+#right-block{
+		width: 40%;
+		height: 550px;
+		background-color: #454545;
+		background: linear-gradient(to right, #595959, #6C6C6C);
+		float: left;
+}
+.image{
+	width: 125px;
+	height: 125px;
+	padding: 15px;
+	margin: 0 auto;
+	border: 2px solid #818183;
+	border-bottom-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+	border-top-right-radius: 50px;
+	border-top-left-radius: 50px;
+	background-image: url(images/Arthas.jpg);
+	
+}
+.name{
+	color: #FFFFFF;
+	font-size: 40px;
+	font-family: Florence, cursive;
+	text-align: center;
+	border: 3px solid #FDF24C;
+	margin: 15px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+.likes{
+	color: #FFFFFF;
+	font-size: 30px;
+	font-family: Florence, cursive;
+	text-align: center;
+	text-decoration: underline;
+	margin-top: 10px;
+}
+.Undead{
+	font-size: 15px;
+	font-weight: bold;
+	color: #FFFFFF;
+	padding-left: 80px;
+	border: 1px solid #FFDB00;
+	background-color: #FFDB00;
+	background-size: 10% auto;
+	margin-right: 100px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+}
+.Frostmourn{
+	font-size: 15px;
+	font-weight: bold;
+	color: #FFFFFF;
+	padding-left: 50px;
+	border: 1px solid #0077DC;
+	background-color: #0077DC;
+	background-size: 10% auto;
+	margin-right: 150px;
+	margin-top: -10px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+}
+.killing{
+	font-size: 15px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align: center;
+	border: 1px solid #037F00;
+	background-color: #037F00;
+	background-size: 10% auto;
+	margin-right: 50px;
+	margin-top: -10px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+}
+.Contacts{
+	color: #FFFFFF;
+	font-size: 25px;
+	font-family: Florence, cursive;
+	text-align: center;
+	text-decoration: underline;
+	margin-top: 10px;
+}
+a{
+	color: #1A0DAB;
+}
+#left-block{
+	float: top;
+}
+.father{
+	font-family: Florence, cursive;
+	font-size: 30px;
+	color: #236181;
+	margin-top: 10px;
+}
+.terenas{
+	font-family: Florence, cursive;
+	font-size: 15px;
+	color: #236181;
+	margin-top: -20px;
+}
+.birthplace{
+	font-family: Florence, cursive;
+	font-size: 30px;
+	color: #236181;
+	margin-top: 10px;
+}
+.Lordaeron{
+	font-family: Florence, cursive;
+	font-size: 15px;
+	color: #236181;
+	margin-top: -20px;
+	border: 3px solid #74A7CB;
+	margin-right: 200px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+.qoutes{
+	font-family: Florence, cursive;
+	font-size: 30px;
+	color: #236181;
+	margin-top: 10px;
+}
+.Speak{
+	font-family: Florence, cursive;
+	font-size: 15px;
+	color: #236181;
+	margin-top: -20px;
+	margin-right: -40px;
+}
+.order{
+	font-family: Florence, cursive;
+	font-size: 15px;
+	color: #236181;
+}
+.what{
+	font-family: Florence, cursive;
+	font-size: 15px;
+	color: #236181;
+	border: 3px solid #74A7CB;
+	margin-right: 200px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+.titles{
+	font-family: Florence, cursive;
+	font-size: 30px;
+	color: #236181;
+	margin-top: 10px;
+}
+.DK{
+	font-family: Florence, cursive;
+	font-size: 15px;
+	color: #236181;
+	margin-top: -20px;
+}
+.LK{
+	font-family: Florence, cursive;
+	font-size: 15px;
+	color: #236181;
+}
+.LP{
+	font-family: Florence, cursive;
+	font-size: 15px;
+	color: #236181;
+	border: 3px solid #74A7CB;
+	margin-right: 200px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
